@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ksm0018
+- 👀 I’m interested in ... starting a new career
+- 🌱 I’m currently learning ... Data Analytics
+- 💞️ I’m looking to collaborate on ... projects to build out my portfolio
+- 📫 How to reach me ... kristen.s.mcgraw@icloud.com
